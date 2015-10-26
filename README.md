@@ -1,3 +1,4 @@
 # DGA4KP
 
-We are too lazy ... if you upload bad review, we will find where you live somehow :D
+This is the initial version of the DGA4KP (Distributed Genetic Algorithm for 0/1 Knapsack Problem) project.
+Instructions on how to run the program will be updated soon.
